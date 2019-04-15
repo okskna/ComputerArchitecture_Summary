@@ -3,7 +3,7 @@
 
 BOOK: <https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=35333669>
 
-![Book Cover](img/bookCover.jpg)
+![Book Cover](https://github.com/okskna/ComputerArchitecture_Summary/tree/master/img.jpg)
 
 
 
